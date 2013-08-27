@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
+gem 'devise'
+gem 'simple_form'
+gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 
 gem 'bootstrap-sass', '~> 2.3.2.1'
 # Bundle edge Rails instead:
